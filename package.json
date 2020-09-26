@@ -1,7 +1,7 @@
 {
   "name": "jquery-sort-descending-ascending",
   "version": "1.0.4",
-  "description": "Sort an array from ascending or descending order",
+  "description": "Sort an array into ascending or descending order",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

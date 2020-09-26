@@ -2,6 +2,17 @@
 
 # Usage:
 
+Integration
+```
+<script src="js/include/jquery-3.5.1.min.js" type="text/javascript"></script>
+<script src="js/include/jquery-num-sort-1.0.0.js" type="text/javascript"></script>
+```
+
+Your Script File:
+```
+<script src="js/script.js" type="text/javascript"></script>
+```
+
 Define arrays:
 ```
 let arrayNum = [-99, 1.10, 20.50, 3.60, 5.10, 0, 100];

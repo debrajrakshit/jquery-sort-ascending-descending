@@ -1,6 +1,6 @@
 /*
 // Plugin Name: jQuery Sort Descending Ascending
-// Description: Sort an array from ascending or descending order
+// Description: Sort an array into ascending or descending order
 // Version: 1.0.0
 // Author: Debraj Rakshit
 // Author Email: debrajweb@gmail.com
