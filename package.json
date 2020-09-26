@@ -1,6 +1,6 @@
 {
   "name": "jquery-num-sort",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sort an array from ascending or descending order",
   "main": "index.js",
   "scripts": {
