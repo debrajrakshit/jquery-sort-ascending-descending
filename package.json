@@ -1,0 +1,23 @@
+{
+  "name": "jquery-num-sort",
+  "version": "1.0.1",
+  "description": "Sort an array from ascending or descending order",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debrajrakshit/jquery-sort-ascending-descending.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Debraj Rakshit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/debrajrakshit/jquery-sort-ascending-descending/issues"
+  },
+  "homepage": "https://github.com/debrajrakshit/jquery-sort-ascending-descending#readme"
+}
