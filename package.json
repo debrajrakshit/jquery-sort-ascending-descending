@@ -12,7 +12,9 @@
   },
   "keywords": [
     "jquery-plugin",
-    "ecosystem:jquery"
+    "ecosystem:jquery",
+    "sort",
+    "array"
   ],
   "author": "Debraj Rakshit",
   "license": "MIT",
