@@ -1,13 +1,20 @@
 // Usage
 
 // Define arrays
-let arrayNum = [1, 20, 3, 5, 0, -88];
+let arrayNum = [-99, 1.10, 20.50, 3.60, 5.10, 0, 100];
+let arrayLetters = ['Abby', 'Daisy', 'Jessy', 'Jenniffer', 'John', 'Ivy', 'Samantha', 'Debraj', 'Scarlet', 'Zelda'];
 
-// Sort minimum to maximum values
-$(arrayNum).sortNumMinToMax(); // Output should be [-88, 0, 1, 3, 5, 20]
-console.log(arrayNum);
+// Sort items in *Ascending order(Numbers)
+// Default jQuery sort() function:
+console.log('Default jQuery sort: ' + arrayNum.sort());
 
-// Sort maximum to minimum values
-// $(arrayNum).sortNumMaxToMin(); // Output should be [20, 5, 3, 1, 0, -88]
+// Plugin function:
+let outputAsc = $(arrayNum).sortAscending();
+console.log('Plugin sort ascending: ' + outputAsc);
+
+// Sort items in *Descending order
+// Plugin function:
+let outputDsc = $(arrayNum).sortDescending();
+console.log('Plugin sort descending:' + outputDsc);
 
 
