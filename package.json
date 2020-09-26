@@ -2,7 +2,7 @@
   "name": "jquery-num-sort",
   "version": "1.0.1",
   "description": "Sort an array from ascending or descending order",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
