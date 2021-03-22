@@ -3,7 +3,7 @@
 // Description: Sort an array into ascending or descending order
 // Version: 1.0.0
 // Author: Debraj Rakshit
-// Author Email: debrajweb@gmail.com
+// Author Email: debrajitweb@gmail.com
 // Date: 25 September 2020
 // Update Date: 26 September 2020
 // License: https://opensource.org/licenses/MIT
